@@ -6,3 +6,4 @@ this frameset demonstrate how to make a horizontal frameset with three different
 nonframes in html<br>
 the nonframe element is a special element for web browser that do not support frames<br>
 frames in html<br>
+navigation frame in html<br>
